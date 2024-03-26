@@ -1,0 +1,1 @@
+INSERT INTO id_gen (gen_key, gen_value) VALUES ('student_id', 1);
